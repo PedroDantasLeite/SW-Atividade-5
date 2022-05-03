@@ -3,7 +3,7 @@ Calcula a soma total de uma matriz quadrada, somando uma fila por thread.
 
 ## Installation
 ```
-$ git clone https://github.com/PedroDantasLeite/SW-Atividade-5.git && cd ~/SW-Atividade-3/
+$ git clone https://github.com/PedroDantasLeite/SW-Atividade-5.git && cd ~/SW-Atividade-5/
 ```
 
 ## Usage
