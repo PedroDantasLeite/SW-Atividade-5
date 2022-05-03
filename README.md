@@ -13,7 +13,7 @@ $ make run #Executa o programa
 $ make clean #Limpar
 ```
 
-O primeiro número recebido será as linha e colunas da matriz. Ela é sempre quadrada
+O primeiro número recebido será as linha e colunas da matriz. Ela é sempre quadrada.
 
 Exemplo:
 ```bash
