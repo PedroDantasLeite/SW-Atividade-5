@@ -26,7 +26,7 @@ Em seguida, você constroi a matriz, colocando os números separados por espaço
 4 7
 8 1
 ```
-A saída é a soma total da matriz
+A saída é a soma total da matriz:
 
 ```bash
 20
